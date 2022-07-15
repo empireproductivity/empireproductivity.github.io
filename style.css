@@ -1,0 +1,22 @@
+h1 {
+    font-size: 4em;
+}
+body {
+    text-align: center;
+    background-color: rgb(205, 205, 184);
+    font-family: sans-serif;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+a:link,a:visited {
+    text-decoration: none;
+    color: rgb(72, 72, 72);
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
